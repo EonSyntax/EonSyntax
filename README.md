@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SwiftDevOps
-- 👀 I’m interested in learning more 
-- 🌱 I’m currently growing as a Full Stack Software Developer
+- 👋 Hi, I’m Emmanuel Adebanji
+- 💻 My Dev name is SwiftDevOps
+- 👀 I’m interested in learning more this space is all about growing
+- 🌱 I’m currently growing as a Full stack Software Developer
 - 💞️ I’m looking to collaborate on anything nice
-- 📫 Contact me here
+- 📫 Contact me through my socials below
 
 ## 🌐 Socials:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/2348133786763?text=Hello%20SwiftDevOps%2C%20I%20found%20you%20on%20GitHub!) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Emmanuel_Adebanji_SwiftDevops) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swiftdevop) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adebanji-emmanuel) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@swiftdevops) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swiftdevops1@gmail.com) 
@@ -15,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwiftDevOp&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TAMILVIP007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SwiftDevOp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
