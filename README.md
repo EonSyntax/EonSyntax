@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel Adebanji
-- 💻 My Dev name is SwiftDevOps
+- 💻 My Dev name is EonSyntax;
 - 👀 I’m interested in learning more this space is all about growing
 - 🌱 I’m currently growing as a Full stack Software Developer
 - 💞️ I’m looking to collaborate on anything nice
