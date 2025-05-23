@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel Adebanji
 - 💻 My Dev name is EonSyntax;
+- - 🌱 I’m a Full stack Software Developer
 - 👀 I’m interested in learning more, this space is all about growing right?😊
-- 🌱 I’m currently growing as a Full stack Software Developer
 - 💞️ I’m looking to collaborate on anything nice
 - 📫 Contact me through my socials below
 
